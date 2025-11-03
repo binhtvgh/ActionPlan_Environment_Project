@@ -53,7 +53,7 @@ Kết quả là một **bản kế hoạch cá nhân rõ ràng, logic, khả thi
   ![prompt 3](screenshots/Prompt3.png)
 
 ## 🗂️ 5. Cấu trúc thư mục dự án
-
+<pre>
 /ActionPlan_Environment_Project
 ├─ prompts/
 │ ├─ output1.txt
@@ -66,3 +66,4 @@ Kết quả là một **bản kế hoạch cá nhân rõ ràng, logic, khả thi
 ├─ action-plan.docx # File Word nộp bài
 ├─ readmeActionPlanEnvironment.md
 └─ worklog.md  # Nhật ký tiến độ / commit
+</pre>
